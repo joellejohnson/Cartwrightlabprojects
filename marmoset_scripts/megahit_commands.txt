@@ -1,0 +1,1 @@
+/work/jgjohns6/megahit/megahit -1 NEX1_R1.fastq -2 NEX1_R2.fastq -o megahit_result
